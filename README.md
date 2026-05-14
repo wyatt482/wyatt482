@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Wyatt</h1>
 <h3 align="center">Hello, my name is Wyatt Loo, and I'm a Computer Engineering student at the University of Hawaii at Manoa interested in embedded systems, programming, digital design, and hardware-software integration.</h3>
 
-- 🔭 I’m currently working on [Polynomial Least-Squares Regression Solver in C Language](https://github.com/wyatt482/Least-Squares-Polynomial-Regression-Project)
+- 🔭 Projects [Polynomial Least-Squares Regression Solver in C Language](https://github.com/wyatt482/Least-Squares-Polynomial-Regression-Project)
 
 - 📫 How to reach me **wloo8927@gmail.com**
 
