@@ -1,7 +1,17 @@
-## Hi there 👋
-- Hi, I'm Wyatt
-- I'm currently studying Computer Engineering
-- I chose my major because I've always been interested in electronics and how they function.
-- A fun fact about me is: I like buying vinyl records.
-- A book or movie I'd recommend is: Scott Pilgrim vs. the World
+<h1 align="center">Hi 👋, I'm Wyatt</h1>
+<h3 align="center">Hello, my name is Wyatt Loo, and I'm a Computer Engineering student at the University of Hawaii at Manoa interested in embedded systems, programming, digital design, and hardware-software integration.</h3>
 
+- 🔭 I’m currently working on [Polynomial Least-Squares Regression Solver in C Language](https://github.com/wyatt482/Least-Squares-Polynomial-Regression-Project)
+
+- 📫 How to reach me **wloo8927@gmail.com**
+
+- 📄 Know about my experiences [file:///Users/wyatt/Downloads/Wyatt_Loo_CV%20-%20Google%20Docs.pdf](file:///Users/wyatt/Downloads/Wyatt_Loo_CV%20-%20Google%20Docs.pdf)
+
+- ⚡ Fun fact **I love listening to new music.**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> </p>
